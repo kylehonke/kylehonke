@@ -4,14 +4,12 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4999&pause=1000&width=435&lines=My+name+is+Kyle)](https://git.io/typing-svg)  
-I'm an aspiring software developer
+Machine Learning Engineer & Software Developer
 ----------------------------------
 
-I'm pursuing a Bachelor of Applied Science in Software Development, with a strong foundation in Java, Python, and C++. My passion lies in leveraging Artificial Intelligence and Machine Learning to solve complex problems and drive innovation in software development.
-
-Beyond programming, I bring unique expertise as a Partnered YouTube Creator, where I have honed skills in video production, SEO, sound design, marketing, and community management. This experience has strengthened my ability to manage multiple projects, meet deadlines, and foster collaborative environments. 
-
-I thrive in cross-functional team settings, balancing technical expertise with creativity and strategic thinking. I am eager to contribute my diverse skill set to innovative projects that make a meaningful impact!
+BAS candidate in Software Development (expected Dec 2026) with ML engineering experience building
+end-to-end Python pipelines using TensorFlow and PyTorch for neural networks, time series, and regression
+models. Proficient in C++ and Java with a strong foundation in data structures, algorithms, and OOP principles.
 
 ### Skills
 
