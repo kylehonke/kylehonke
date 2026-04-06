@@ -20,3 +20,6 @@ Machine Learning Engineer & Software Developer
 <a href="https://instagram.com/groovykyle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="groovykyle" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
