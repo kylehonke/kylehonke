@@ -1,6 +1,6 @@
 <img align="right" height="200" src="https://i.imgur.com/Tznn1IZ.gif"/>
 
-<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>
+### Hi ![](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4999&pause=1000&width=435&lines=My+name+is+Kyle)](https://git.io/typing-svg)  
