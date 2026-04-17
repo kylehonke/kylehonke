@@ -1,7 +1,6 @@
 <img align="right" height="175" src="https://i.imgur.com/Tznn1IZ.gif"/>
 
-### Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
-
+### Hi! 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4999&pause=1000&width=435&lines=My+name+is+Kyle)](https://git.io/typing-svg)  
 Machine Learning Engineer & Software Developer
@@ -60,9 +59,6 @@ Machine Learning Engineer & Software Developer
   <img alt="Fruity Loops" src="https://img.shields.io/badge/Fruity%20Loops-FF6A00?style=for-the-badge" />
 </p>
 
-
-<h2><img src="https://media0.giphy.com/media/feQRYLoruyjguhLjK1/200.webp?cid=ecf05e47z0d3jybpmnynd2dvw31flm8rl906s4l3p9jm6f3h&rid=200.webp&ct=s" width="30"> Connect with me:</h2> 
-<p align="left"><a href="https://linkedin.com/in/kylehonke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kylehonke" height="30" width="40" /></a> <a href="https://instagram.com/groovykyle" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="groovykyle" height="30" width="40" /></a></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
