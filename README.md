@@ -28,6 +28,7 @@ Machine Learning Engineer & Software Developer
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/VeraCrypt_Logo.png/128px-VeraCrypt_Logo.png" alt="veracrypt" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/128px-DaVinci_Resolve_17_logo.svg.png" alt="davinci resolve" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/FL_Studio_logo.png/128px-FL_Studio_logo.png" alt="fl studio" width="40" height="40"/>
+  <img src="https://antigravity.google/assets/image/antigravity-logo.png" alt="google antigravity" width="40" height="40"/>
 </p>
 
 
