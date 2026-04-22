@@ -62,9 +62,12 @@ Machine Learning Engineer & Software Developer
   <img alt="Fruity Loops" src="https://img.shields.io/badge/Fruity%20Loops-FF6A00?style=for-the-badge" />
   <img alt="Audacity" src="https://img.shields.io/badge/Audacity-00C?style=for-the-badge&logo=audacity&logoColor=fff" />
   <img alt="Google AdSense" src="https://img.shields.io/badge/Google%20AdSense-4285F4?logo=googleadsense&logoColor=fff&style=for-the-badge" />
-  <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=for-the-badge" />
+  <img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=fff&style=for-the-badge" />
   <img alt="Jules" src="https://img.shields.io/badge/Jules-715CD7?logo=googlejules&logoColor=fff&style=for-the-badge" />
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=for-the-badge" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
+  <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=fff&style=for-the-badge" />
+  <img alt="Racket" src="https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=fff&style=for-the-badge" />
 
 
 </p>
