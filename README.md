@@ -41,7 +41,6 @@ Machine Learning Engineer & Software Developer
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img alt="JSON" src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=for-the-badge" />
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -57,7 +56,6 @@ Machine Learning Engineer & Software Developer
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
   <img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-5F6368?style=for-the-badge" />
-  <img alt="VeraCrypt" src="https://img.shields.io/badge/VeraCrypt-1A5E9A?style=for-the-badge" />
   <img alt="DaVinci Resolve" src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?logo=davinciresolve&logoColor=fff&style=for-the-badge" />
   <img alt="Fruity Loops" src="https://img.shields.io/badge/Fruity%20Loops-FF6A00?style=for-the-badge" />
   <img alt="Audacity" src="https://img.shields.io/badge/Audacity-00C?style=for-the-badge&logo=audacity&logoColor=fff" />
@@ -68,6 +66,7 @@ Machine Learning Engineer & Software Developer
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
   <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=fff&style=for-the-badge" />
   <img alt="Racket" src="https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=fff&style=for-the-badge" />
+  <img alt="RetroArch" src="https://img.shields.io/badge/RetroArch-000?logo=retroarch&logoColor=fff&style=for-the-badge" />
 
 
 </p>
