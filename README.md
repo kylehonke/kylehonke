@@ -29,10 +29,10 @@ Machine Learning Engineer & Software Developer
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img alt="Cloudflare Pages" src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white" />
-  <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?logo=cloudflareworkers&logoColor=fff&style=for-the-badge" />
   <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
@@ -40,6 +40,7 @@ Machine Learning Engineer & Software Developer
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=for-the-badge" />
   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
@@ -57,9 +58,14 @@ Machine Learning Engineer & Software Developer
   <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
   <img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-5F6368?style=for-the-badge" />
   <img alt="VeraCrypt" src="https://img.shields.io/badge/VeraCrypt-1A5E9A?style=for-the-badge" />
-  <img alt="DaVinci Resolve" src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge" />
+  <img alt="DaVinci Resolve" src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?logo=davinciresolve&logoColor=fff&style=for-the-badge" />
   <img alt="Fruity Loops" src="https://img.shields.io/badge/Fruity%20Loops-FF6A00?style=for-the-badge" />
   <img alt="Audacity" src="https://img.shields.io/badge/Audacity-00C?style=for-the-badge&logo=audacity&logoColor=fff" />
+  <img alt="Google AdSense" src="https://img.shields.io/badge/Google%20AdSense-4285F4?logo=googleadsense&logoColor=fff&style=for-the-badge" />
+  <img alt="GGoogle Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=for-the-badge" />
+  <img alt="Google Jules" src="https://img.shields.io/badge/Google%20Jules-715CD7?logo=googlejules&logoColor=fff&style=for-the-badge" />
+
+
 </p>
 
 
