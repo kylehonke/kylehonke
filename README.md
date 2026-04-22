@@ -27,6 +27,7 @@ Machine Learning Engineer & Software Developer
   <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img alt="Cloudflare Pages" src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -58,7 +59,7 @@ Machine Learning Engineer & Software Developer
   <img alt="DaVinci Resolve" src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge" />
   <img alt="Fruity Loops" src="https://img.shields.io/badge/Fruity%20Loops-FF6A00?style=for-the-badge" />
   <img alt="Audacity" src="https://img.shields.io/badge/Audacity-00C?style=for-the-badge&logo=audacity&logoColor=fff" />
-  <img alt="Audacity" src="https://img.shields.io/badge/Audacity-00C?logo=audacity&logoColor=fff&style=flat" />
+  <img alt="Audacity" src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=fff&style=flat-square" />
 </p>
 
 
