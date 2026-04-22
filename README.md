@@ -57,7 +57,8 @@ Machine Learning Engineer & Software Developer
   <img alt="VeraCrypt" src="https://img.shields.io/badge/VeraCrypt-1A5E9A?style=for-the-badge" />
   <img alt="DaVinci Resolve" src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge" />
   <img alt="Fruity Loops" src="https://img.shields.io/badge/Fruity%20Loops-FF6A00?style=for-the-badge" />
-  ![Audacity Badge](https://img.shields.io/badge/Audacity-00C?logo=audacity&logoColor=fff&style=flat)
+  <img alt="Audacity" src="https://img.shields.io/badge/Audacity-00C?style=for-the-badge&logo=audacity&logoColor=fff" />
+  <img alt="Audacity" src="https://img.shields.io/badge/Audacity-00C?logo=audacity&logoColor=fff&style=flat" />
 </p>
 
 
