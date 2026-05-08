@@ -7,7 +7,7 @@ Machine Learning Engineer & Software Developer
 ----------------------------------
 
 <h3 align="center">Pursuing a Bachelor of Applied Science in Software Development at ACC</h3>
-<h3 align="center">This is my website: <a href="https://kylehonke.github.io/">kylehonke.github.io</a></h3>
+<h3 align="center">Visit <a href="https://kylehonke.github.io/">My Website</a></h3>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
