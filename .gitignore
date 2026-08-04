@@ -6,4 +6,6 @@
 !.gitignore
 !history/
 !history/**
+!.github/
+!.github/workflows/
 !.github/workflows/streak-stats.yml
