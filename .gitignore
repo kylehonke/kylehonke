@@ -1,0 +1,8 @@
+#ignore all by default
+*
+
+# whitelist
+!README.md
+!.gitignore
+!history/
+!history/**
