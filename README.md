@@ -29,7 +29,8 @@
   <img alt="JSON" src="https://img.shields.io/badge/JSON-E91E63?style=flat&logo=json&logoColor=white" />
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-E91E63?style=flat&logo=latex&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-E91E63?style=flat&logo=markdown&logoColor=white" />
-  <img alt="PL/SQL" src="https://img.shields.io/badge/PL%2FSQL-E91E63?style=flat&logo=oracle&logoColor=white" />
+  <!-- <img alt="PL/SQL" src="https://img.shields.io/badge/PL%2FSQL-E91E63?style=flat&logo=oracle&logoColor=white" /> -->
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-E91E63?style=flat&logo=postgresql&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-E91E63?style=flat&logo=python&logoColor=white" />
   <img alt="Racket" src="https://img.shields.io/badge/Racket-E91E63?style=flat&logo=racket&logoColor=white" />
 </p>
