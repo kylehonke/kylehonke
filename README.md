@@ -1,13 +1,13 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=E91E63&height=180&section=header&text=Kyle%20Honke&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=Software%20Developer%20%7C%20Machine%20Learning%20Engineer&descAlignY=58&descSize=22&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=E91E63&height=180&section=header&text=Kyle%20Honke&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=Software%20Engineer%20%7C%20Machine%20Learning%20&descAlignY=58&descSize=22&animation=fadeIn"
     width="100%"
   />
   <img align="right" height="150" src="https://i.imgur.com/Tznn1IZ.gif"/>
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C2185B&width=435&lines=Hi+there!+I'm+Kyle;BAS%2C+Software+Development;AAS%2C+Computer+Programming" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=C2185B&width=435&lines=Hi+there!+I'm+Kyle;BAS%2C+Software+Development;AAS%2C+Computer+Programming" alt="Typing SVG" />
 </a>
 <h3 align="left">Visit my <a href="https://kylehonke.github.io/"><b>Website</b></a></h3>
 
